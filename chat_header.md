@@ -2,7 +2,7 @@
 title: Магазины и услуги для DIY
 description: Копия закрепа чата
 published: true
-date: 2025-11-30T17:56:48.722Z
+date: 2025-11-30T17:56:51.546Z
 tags: общая информация
 editor: markdown
 dateCreated: 2025-11-30T17:55:35.339Z
