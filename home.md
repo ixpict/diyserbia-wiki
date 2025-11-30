@@ -1,11 +1,11 @@
 ---
-title: Home
-description: DIY Serbia wiki main
+title: Home (RU)
+description: 
 published: true
-date: 2025-11-30T17:06:42.792Z
+date: 2025-11-30T17:11:24.659Z
 tags: 
 editor: markdown
-dateCreated: 2025-11-30T16:47:34.156Z
+dateCreated: 2025-11-30T17:11:24.659Z
 ---
 
 # DIY Wiki
