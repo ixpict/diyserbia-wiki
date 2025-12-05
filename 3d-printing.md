@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-05T19:06:27.617Z
+date: 2025-12-05T19:06:45.611Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
@@ -36,7 +36,7 @@ dateCreated: 2025-12-05T16:57:56.679Z
 
 **3drepublika**, г. Белград, https://3drepublika.com/collections/materijali-filamenti-za-3d-stampace - выгодно покупать оптом, хороший пластик от бамбу.
 
-Temu - бывают скидки (сейчас редки) на хороший пластик creality, esun. NoName - не стоит покупать очень плохого качества.
+**Temu** - бывают скидки (сейчас редки) на хороший пластик creality, esun. NoName - не стоит покупать очень плохого качества.
 
 
 ## Хочу напечатать, без покупки принтера
