@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-05T18:26:45.904Z
+date: 2025-12-05T18:32:52.789Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
@@ -18,3 +18,5 @@ dateCreated: 2025-12-05T16:57:56.679Z
 * [BambuLab X1C](/ru/3d-printers/BambuLab-X1C)
 
 ## Где купить пластик?
+
+## Хочу напечатать, без покупки принтера
