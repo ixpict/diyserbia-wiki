@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-05T19:06:00.683Z
+date: 2025-12-05T19:06:27.617Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
@@ -32,9 +32,9 @@ dateCreated: 2025-12-05T16:57:56.679Z
 
 ## Где купить пластик?
 
-Voxellab, г. Белград https://3dmarket.rs/3D/filamenti-za-3d-stampace/ - часто бывают скидки, акции. Для прототипов можно покупать случайный цвет - приезжает какой то рандомный пластик. При заказе 5-6 рандомных чаще всего не повторяются цвета - но зависит от настроения в магазине. 
+**Voxellab**, г. Белград,  https://3dmarket.rs/3D/filamenti-za-3d-stampace/ - часто бывают скидки, акции. Для прототипов можно покупать случайный цвет - приезжает какой то рандомный пластик. При заказе 5-6 рандомных чаще всего не повторяются цвета - но зависит от настроения в магазине. 
 
-3drepublika, https://3drepublika.com/collections/materijali-filamenti-za-3d-stampace - выгодно покупать оптом, хороший пластик от бамбу.
+**3drepublika**, г. Белград, https://3drepublika.com/collections/materijali-filamenti-za-3d-stampace - выгодно покупать оптом, хороший пластик от бамбу.
 
 Temu - бывают скидки (сейчас редки) на хороший пластик creality, esun. NoName - не стоит покупать очень плохого качества.
 
