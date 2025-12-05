@@ -2,17 +2,12 @@
 title: FAQ
 description: 
 published: true
-date: 2025-12-05T17:28:44.393Z
+date: 2025-12-05T17:29:17.862Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T16:59:15.440Z
 ---
 
-# FAQ
-
-# Общие вопросы
-## Жизнь в Сербии
-## Комьюнити
 ## Wiki-FAQ
 ### Почему эта wiki?
 
