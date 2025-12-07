@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-07T01:19:06.527Z
+date: 2025-12-07T01:21:55.782Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
@@ -19,8 +19,8 @@ dateCreated: 2025-12-05T16:57:56.679Z
 
 ## Полезное
 
-* [Что можно напечать на остатки?](/ru/3d-printers/remains-filament-models)
-* [Bambu Refills and adapters](/ru/3d-printers/refills-models)
+* [Что можно напечать на остатки?](/ru/3d-printing/remains-filament-models)
+* [Bambu Refills and adapters](/ru/3d-printing/refills-models)
 * [3mf Thumbnails for macos and quicklook](/ru/3d-printing/ThumbHost3mf)
 
 ## Бренды филаментов
