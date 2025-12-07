@@ -2,8 +2,8 @@
 title: Где купить/услуги
 description: Где купить?
 published: true
-date: 2025-12-05T17:07:18.059Z
-tags: 
+date: 2025-12-07T02:34:22.756Z
+tags: shops, магазины
 editor: markdown
 dateCreated: 2025-12-05T17:07:18.059Z
 ---
