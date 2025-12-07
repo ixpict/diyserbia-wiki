@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-05T20:25:45.084Z
+date: 2025-12-07T01:02:17.917Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
@@ -16,6 +16,11 @@ dateCreated: 2025-12-05T16:57:56.679Z
 
 * [BambuLab A1](/ru/3d-printers/BambuLab-A1)
 * [BambuLab X1C](/ru/3d-printers/BambuLab-X1C)
+
+## Полезное
+
+* [Что можно напечать на остатки?](/ru/3d-printers/remains-filament-models)
+* [Bambu Refills and adapters](/ru/3d-printers/refills-models)
 
 ## Бренды филаментов
 
