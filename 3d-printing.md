@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-07T02:08:28.285Z
+date: 2025-12-07T02:10:55.432Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
@@ -14,9 +14,8 @@ dateCreated: 2025-12-05T16:57:56.679Z
 
 Если вы сомневаетесь нужно ли это вам дома, вот неплохое видео чтобы расширить свой кругозор:
 
-<iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uuiiPocPjnw?si=f6_bAozOpRFxUqQ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uuiiPocPjnw?si=f6_bAozOpRFxUqQ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Наши принтеры
 
