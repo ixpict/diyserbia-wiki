@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-07T01:56:23.670Z
+date: 2025-12-07T02:02:35.440Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
