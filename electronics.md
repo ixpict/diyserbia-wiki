@@ -2,7 +2,7 @@
 title: Электроника и всё что рядом
 description: 
 published: true
-date: 2025-12-05T18:27:25.952Z
+date: 2025-12-07T02:35:22.448Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T17:02:04.496Z
@@ -10,6 +10,8 @@ dateCreated: 2025-12-05T17:02:04.496Z
 
 # Электроника и всё что рядом
 
-## Наши паяльники
+# Подборка паяльников 
+https://t.me/DIY_Serbia/6285
+
 
 ## Припой
