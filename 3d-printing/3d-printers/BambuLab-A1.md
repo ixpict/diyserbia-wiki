@@ -2,8 +2,8 @@
 title: BambuLab A1
 description: 
 published: true
-date: 2025-12-07T02:51:01.012Z
-tags: bambulab
+date: 2025-12-07T02:54:49.457Z
+tags: 3d-printer, bambulab
 editor: markdown
 dateCreated: 2025-12-07T02:50:23.953Z
 ---
