@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-07T02:52:43.966Z
+date: 2025-12-25T10:11:20.352Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
@@ -26,6 +26,7 @@ dateCreated: 2025-12-05T16:57:56.679Z
 * [Что можно напечать на остатки?](/ru/3d-printing/remains-filament-models)
 * [Bambu Refills and adapters](/ru/3d-printing/refills-models)
 * [3mf Thumbnails for macos and quicklook](/ru/3d-printing/ThumbHost3mf)
+* [Таблица растворимостей пластика](/ru/3d-printing/smoothing-solvent-solubility-chart)
 
 # Всё о филаментах
 
