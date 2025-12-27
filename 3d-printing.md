@@ -2,7 +2,7 @@
 title: 3d печать
 description: 
 published: true
-date: 2025-12-27T06:43:01.182Z
+date: 2025-12-27T09:47:03.825Z
 tags: 3d
 editor: markdown
 dateCreated: 2025-12-05T16:57:56.679Z
@@ -28,6 +28,7 @@ dateCreated: 2025-12-05T16:57:56.679Z
 * [Bambu Refills and adapters](/ru/3d-printing/refills-models)
 * [3mf Thumbnails for macos and quicklook](/ru/3d-printing/ThumbHost3mf)
 * [Таблица растворимостей пластика](/ru/3d-printing/smoothing-solvent-solubility-chart)
+* [Наиболее полезные штуки для 3д принтера A1](/ru/3d-printing/A1-print-utils)
 
 # Всё о филаментах
 
